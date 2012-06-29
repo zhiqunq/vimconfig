@@ -1,0 +1,4 @@
+   [PROJECTS_PARENT]
+   option:ctags_params="--languages=python"
+
+   ~/public
